@@ -56,7 +56,7 @@ Language <-
                 BaseInfo = "[#00e699]Author [ %s ] Steal record [ %s (%s) ]"
                 RoundStart = "[#00e699]Round started. Base [ %s ] Defender [ %s ]"
                 TookSet = "You took pack %s."
-                AlreadyTookSameSet = "You have already taken this pack."
+                AlreadyTookSameSet = "You have already taken this pack." 
 				SetLimitReached = "Too many people are using this pack, please pick another one."
                 ChangePackNextSpawn = "Your pack will change on next spawn."
                 RoundWinMoreScore = "[#00e699][ %s ] have successfully defended the vehicle."
